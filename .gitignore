@@ -1,4 +1,6 @@
 # dependencies
+.next/
+out/
 
 /.pnp
 .pnp.js

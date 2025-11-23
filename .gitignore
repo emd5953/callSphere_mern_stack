@@ -1,6 +1,8 @@
-# dependencies
+# Next.js 
 .next/
 out/
+frontend/.next/
+**/.next/
 
 /.pnp
 .pnp.js
